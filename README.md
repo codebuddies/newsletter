@@ -1,5 +1,5 @@
 # About
-Crowdsourced community newsletter that goes out monthly. See archives at [https://tinyletter.com/codebuddies/archive](https://tinyletter.com/codebuddies/archive)
+Crowdsourced community newsletter that goes out monthly. Sign up for the newsletter at https://tinyletter.com/codebuddies. See archives at [https://tinyletter.com/codebuddies/archive](https://tinyletter.com/codebuddies/archive)
 
 # How to contribute an addition
 1. Please fork this repo

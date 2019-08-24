@@ -1,6 +1,11 @@
 # About
 Crowdsourced community newsletter that goes out monthly. See archives at [https://tinyletter.com/codebuddies/archive](https://tinyletter.com/codebuddies/archive)
 
+# How to contribute an addition
+1. Please fork this repo
+2. Edit the `.md` file you want to add to, and create a PR 
+3. If you have any questions or feedback, please either create an issue for it or raise it up in the #cb-newsletter channel on the CodeBuddies Slack.
+
 # Template
 
 Note: This is a newsletter [crowdsourced by the community](https://github.com/codebuddies/newsletter) where we share community news, shout-out personal projects, and celebrate wins made by members of the community. 

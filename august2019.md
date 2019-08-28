@@ -33,7 +33,7 @@ A collection of open-sourced projects built by members of the CB community
 
 ## People Shout-outs (congrats, wins, thanks)
 
-John Goodwin offered some amazing job search advice:
+1. John Goodwin offered some amazing job search advice:
 
 > ... my advice as someone who spent 22 years doing this kind of work and was once unemployed for around 18 months:
 >
@@ -49,6 +49,8 @@ good mentors/teammates. In your early years, your participation in successful pr
 > * Measure and record data - who did you talk to, which companies, what contacts, what dates/times, what subjects did you talk about? Did they mention other people? Write down everything and try to make a system to record it. Also track outcomes for ideas you have of what you think will or won’t work.
 >
 > * Continue to grow - make projects, learn about creating and communicating the value you create, learn about testing/validation, so on.
+
+2. Shout-out to @Ada for coming up with some amazingly beautiful designs for CB Connect in [link].
 
 ## Upcoming Hangouts
 

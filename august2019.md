@@ -50,7 +50,7 @@ good mentors/teammates. In your early years, your participation in successful pr
 >
 > * Continue to grow - make projects, learn about creating and communicating the value you create, learn about testing/validation, so on.
 
-2. Shout-out to @Ada for coming up with some amazingly beautiful designs for CB Connect in [link].
+2. Shout-out to @Ada for coming up with some amazingly beautiful [designs for CB Connect](https://sketch.cloud/s/PKPgL).
 
 ## Upcoming Hangouts
 
